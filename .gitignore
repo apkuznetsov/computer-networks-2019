@@ -6,6 +6,9 @@
 
 *.test
 
+*/out/*
 *.out
+
+*.iml
 
 .idea/
