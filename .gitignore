@@ -3,12 +3,11 @@
 *.dll
 *.so
 *.dylib
-
-*.test
-
-*/out/*
-*.out
-
 *.iml
 
+*/out/*
+*/obj/*
+*/bin/*
+
 .idea/
+*/.vs/*
